@@ -1,5 +1,5 @@
 hello
-===
+=====
    
 term (up to a line of text)
    Definition of the term, which must be indented
